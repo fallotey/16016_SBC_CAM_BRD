@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\CAM_Board\Project Outputs for CAM_Board\Pick Place\Pick Place for CAM_BRD.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/05/23
+Time:       10:20
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C6","0.1uF","TopLayer","CAPC0402X06N","947.000","1560.000","180","Non-polarized Capactior"
+"C5","10uF","TopLayer","CAPC0402X06N","838.000","1559.000","0","Non-polarized Capactior"
+"J1","BM20B(0.8)-34DS-0.4V(53)","BottomLayer","BM20","966.000","1414.915","180","34 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold"
+"R1","DNP","TopLayer","RESC0402X04N","1366.000","291.000","180","Resistor"
+"R3","*","TopLayer","RESC0603X06N","459.000","257.000","90","Resistor"
+"R2","DNP","TopLayer","RESC0402X04N","1362.000","360.000","0","Resistor"
+"P1","503480-3200","TopLayer","32POS-0.5MM_PITCH","883.151","232.876","180","0.5 mm Pitch Easy-On(TM) BackFlip(TM) Type FPC Connector, 1.0 mm Mated Height, Right Angle, SMT, Dual Contact, 32 Circuits, -40 to 85 degC, ELV and RoHS Compliant, Tape and Reel"
+"C3","10uF","TopLayer","CAPC0402X06N","985.000","1307.000","180","Non-polarized Capactior"
+"C2","0.1uF","TopLayer","CAPC0402X06N","792.000","1293.000","90","Non-polarized Capactior"
+"C1","10uF","TopLayer","CAPC0402X06N","746.000","1292.000","90","Non-polarized Capactior"
+"C4","0.1uF","TopLayer","CAPC0402X06N","985.000","1266.000","180","Non-polarized Capactior"

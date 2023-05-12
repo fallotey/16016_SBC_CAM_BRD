@@ -1,0 +1,50 @@
+Added Component: Designator=J?(BM20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BM20B(0.8)-34DS-0.4V(53)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCAM_2V8 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=CSI_P1_D0_P Pin=J?-4
+Added Pin To Net: NetName=CSI_P1_D0_N Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=CSI_P1_CK_P Pin=J?-7
+Added Pin To Net: NetName=CSI_P1_CK_N Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=CS1_P1_D3_P Pin=J?-10
+Added Pin To Net: NetName=CS1_P1_D3_N Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=NVCC_1V8 Pin=J?-13
+Added Pin To Net: NetName=CSI1_I2C_SCL Pin=J?-14
+Added Pin To Net: NetName=C1_FLASH Pin=J?-15
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=VCAM_2V8 Pin=J?-17
+Added Pin To Net: NetName=VCAM_2V8 Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=Trigger Pin=J?-20
+Added Pin To Net: NetName=C1_RESETPWR Pin=J?-21
+Added Pin To Net: NetName=CSI1_I2C_SDA Pin=J?-22
+Added Pin To Net: NetName=VCAM_1V2 Pin=J?-23
+Added Pin To Net: NetName=VCAM_1V2 Pin=J?-24
+Added Pin To Net: NetName=GND Pin=J?-25
+Added Pin To Net: NetName=CSI_P1_D2_N Pin=J?-26
+Added Pin To Net: NetName=CSI_P1_D2_P Pin=J?-27
+Added Pin To Net: NetName=GND Pin=J?-28
+Added Pin To Net: NetName=CSI_P1_D1_N Pin=J?-29
+Added Pin To Net: NetName=CSI_P1_D1_P Pin=J?-30
+Added Pin To Net: NetName=GND Pin=J?-31
+Added Pin To Net: NetName=MIPI_CSI_MCLK Pin=J?-32
+Added Pin To Net: NetName=GND Pin=J?-33
+Added Pin To Net: NetName=VCAM_2V8 Pin=J?-34
+Added Pin To Net: NetName=GND Pin=J?-G1
+Added Pin To Net: NetName=GND Pin=J?-G2
+Added Pin To Net: NetName=GND Pin=J?-G3
+Added Pin To Net: NetName=GND Pin=J?-G4
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component J? BM20B(0.8)-34DS-0.4V(53)
+Added Member To Class: ClassName=Sheet2 Member=Component R? DNP
+Added Member To Class: ClassName=Sheet2 Member=Component R? *
+Added Member To Class: ClassName=Sheet2 Member=Component TP? =VALUE

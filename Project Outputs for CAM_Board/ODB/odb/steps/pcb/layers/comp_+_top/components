@@ -1,0 +1,157 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 0.947 1.56 180 N C6 0.1uF ;0=1,1=0.0217
+PRP Manufacturer_1 'Walsin Technology Corporation'
+PRP Manufacturer_Partnumber_1 '0603B104J500CT'
+PRP Supplier_Link ''
+PRP Value '0.1uF'
+TOP 0 0.966685 1.56 90 N 6 17 C6-1
+TOP 1 0.9273149 1.56 90 N 4 1 C6-2
+#
+# CMP 1
+CMP 2 0.838 1.559 0 N C5 10uF ;0=1,1=0.0217
+PRP Manufacturer_1 'AVX Corporation'
+PRP Manufacturer_Partnumber_1 '06036A100FAT2A'
+PRP Supplier_Link ''
+PRP Value '10uF'
+TOP 0 0.818315 1.559 270 N 6 22 C5-1
+TOP 1 0.8576851 1.559 270 N 4 4 C5-2
+#
+# CMP 2
+CMP 5 0.374 0.334 90 N TP2 =VALUE ;0=1,1=0.0000
+TOP 0 0.374 0.334 90 N 20 2 TP2-1
+#
+# CMP 3
+CMP 5 1.531 0.319 90 N TP1 =VALUE ;0=1,1=0.0000
+TOP 0 1.531 0.319 90 N 3 0 TP1-1
+#
+# CMP 4
+CMP 3 1.366 0.291 180 N R1 DNP ;0=1,1=0.0157
+PRP Supplier_Link ''
+PRP Value 'DNP'
+TOP 0 1.3866693 0.291 90 N 3 3 R1-1
+TOP 1 1.3453307 0.291 90 N 1 1 R1-2
+#
+# CMP 5
+CMP 4 0.459 0.257 270 N R3 * ;0=1,1=0.0217
+PRP Supplier_Link ''
+PRP Value ''
+TOP 0 0.459 0.2274724 180 N 19 1 R3-1
+TOP 1 0.459 0.2865275 180 N 20 1 R3-2
+#
+# CMP 6
+CMP 3 1.362 0.36 0 N R2 DNP ;0=1,1=0.0157
+PRP Supplier_Link ''
+PRP Value 'DNP'
+TOP 0 1.3413307 0.36 270 N 6 9 R2-1
+TOP 1 1.3826693 0.36 270 N 3 2 R2-2
+#
+# CMP 7
+CMP 0 0.8831514 0.2328763 180 N P1 503480-3200 ;0=1,1=0.0751
+PRP Circuits_(Loaded) '32'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.molex.com/molex/index.jsp'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.molex.com/webdocs/datasheets/pdf/en-us/5034803200_FFC_FPC_CONNECTORS.pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.molex.com/pdm_docs/sd/5034803200_sd.pdf'
+PRP Contact_Position 'Dual'
+PRP Current_(Max_per_Contact) '0.5A'
+PRP Durability_(mating_cycles_max) '10'
+PRP Entry_Angle '90degrees Angle'
+PRP Manufacturer_1 'Molex'
+PRP Manufacturer_Part_Number_1 '503480-3200'
+PRP Mated_Height '1.00mm'
+PRP Material_-_Metal 'Phosphor Bronze'
+PRP Material_-_Plating_Mating 'Gold'
+PRP Material_-_Plating_Termination 'Gold, Tin'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP PackageDescription '32-Lead FPC Connector, Pitch 0.5 mm'
+PRP PackageReference '503480-3200'
+PRP PackageVersion 'Rev. F, 09/2012'
+PRP Packing 'Tape and Reel'
+PRP PCB_Locator 'No'
+PRP PCB_Retention 'Yes'
+PRP Pitch_-_Mating_Interface '0.50mm'
+PRP Polarized_to_PCB 'Yes'
+PRP RoHS 'TRUE'
+PRP Stackable 'No'
+PRP Voltage_(Max) '50V AC (RMS)/DC'
+TOP 0 1.1882689 0.180711 180 N 1 4 P1-1
+TOP 1 1.1685838 0.180711 180 N 6 11 P1-2
+TOP 2 1.1488988 0.180711 180 N 21 0 P1-3
+TOP 3 1.1292137 0.180711 180 N 16 0 P1-4
+TOP 4 1.1095287 0.180711 180 N 4 2 P1-5
+TOP 5 1.0898437 0.180711 180 N 6 12 P1-6
+TOP 6 1.0701587 0.180711 180 N 12 1 P1-7
+TOP 7 1.0504737 0.180711 180 N 11 1 P1-8
+TOP 8 1.0307889 0.1807112 180 N 6 15 P1-9
+TOP 9 1.0111038 0.1807112 180 N 14 0 P1-10
+TOP 10 0.9914188 0.1807113 180 N 13 1 P1-11
+TOP 11 0.9717338 0.1807113 180 N 6 16 P1-12
+TOP 12 0.9520485 0.180711 180 N 18 1 P1-13
+TOP 13 0.9323634 0.180711 180 N 17 1 P1-14
+TOP 14 0.9126778 0.1807108 180 N 6 31 P1-15
+TOP 15 0.8929928 0.1807108 180 N 6 29 P1-16
+TOP 16 0.8733086 0.1807112 180 N 1 5 P1-17
+TOP 17 0.8536236 0.1807112 180 N 6 30 P1-18
+TOP 18 0.8339389 0.1807113 180 N 5 1 P1-19
+TOP 19 0.8142538 0.1807113 180 N 6 27 P1-20
+TOP 20 0.7945687 0.1807114 180 N 9 1 P1-21
+TOP 21 0.7748837 0.1807114 180 N 10 1 P1-22
+TOP 22 0.7551987 0.1807114 180 N 6 28 P1-23
+TOP 23 0.7355137 0.1807114 180 N 7 1 P1-24
+TOP 24 0.7158287 0.1807114 180 N 8 1 P1-25
+TOP 25 0.6961436 0.1807114 180 N 6 32 P1-26
+TOP 26 0.6764587 0.1807114 180 N 2 6 P1-27
+TOP 27 0.6567736 0.1807114 180 N 2 7 P1-28
+TOP 28 0.6370886 0.1807114 180 N 15 1 P1-29
+TOP 29 0.6174036 0.1807114 180 N 19 0 P1-30
+TOP 30 0.5977185 0.1807114 180 N 6 33 P1-31
+TOP 31 0.5780335 0.1807114 180 N 1 10 P1-32
+TOP 32 1.2193712 0.2850417 180 N 6 10 P1-MP1
+TOP 33 0.5469314 0.2850417 180 N 6 34 P1-MP2
+#
+# CMP 8
+CMP 2 0.985 1.307 180 N C3 10uF ;0=1,1=0.0217
+PRP Manufacturer_1 'AVX Corporation'
+PRP Manufacturer_Partnumber_1 '06036A100FAT2A'
+PRP Supplier_Link ''
+PRP Value '10uF'
+TOP 0 1.004685 1.307 90 N 6 13 C3-1
+TOP 1 0.9653149 1.307 90 N 2 5 C3-2
+#
+# CMP 9
+CMP 2 0.792 1.293 270 N C2 0.1uF ;0=1,1=0.0217
+PRP Manufacturer_1 'Walsin Technology Corporation'
+PRP Manufacturer_Part_Number_1 '0603B104J500CT'
+PRP Supplier_Link ''
+PRP Value '0.1uF'
+TOP 0 0.792 1.273315 180 N 6 25 C2-1
+TOP 1 0.792 1.3126851 180 N 1 8 C2-2
+#
+# CMP 10
+CMP 2 0.746 1.292 270 N C1 10uF ;0=1,1=0.0217
+PRP Manufacturer_1 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 '06036A100FAT2A'
+PRP Supplier_Link ''
+PRP Value '10uF'
+TOP 0 0.746 1.272315 180 N 6 26 C1-1
+TOP 1 0.746 1.3116851 180 N 1 9 C1-2
+#
+# CMP 11
+CMP 2 0.985 1.266 180 N C4 0.1uF ;0=1,1=0.0217
+PRP Manufacturer_1 'Walsin Technology Corporation'
+PRP Manufacturer_Partnumber_1 '0603B104J500CT'
+PRP Supplier_Link ''
+PRP Value '0.1uF'
+TOP 0 1.004685 1.266 90 N 6 14 C4-1
+TOP 1 0.9653149 1.266 90 N 2 4 C4-2
+#

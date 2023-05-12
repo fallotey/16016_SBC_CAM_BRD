@@ -1,0 +1,156 @@
+Added Component: Designator=C?(CAPC0603X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Walsin Technology Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Partnumber 1"; Value = "0603B104J500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Walsin Technology Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Partnumber 1"; Value = "0603B104J500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "06036A100FAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Partnumber 1"; Value = "06036A100FAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Walsin Technology Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "0603B104J500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Partnumber 1"; Value = "06036A100FAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found BM20
+Added Component: Designator=P?(32POS-0.5MM PITCH)
+Add component (AddParameter): Name = "Circuits (Loaded)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/molex/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/5034803200_FFC_FPC_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/5034803200_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Position"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Max per Contact)"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability (mating cycles max)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Entry Angle"; Value = "90degrees Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "503480-3200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Height"; Value = "1.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Metal"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Plating Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Plating Termination"; Value = "Gold, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Lead FPC Connector, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "503480-3200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 09/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Locator"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Retention"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating Interface"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized to PCB"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stackable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (Max)"; Value = "50V AC (RMS)/DC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0402X04N)
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603X06N)
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0402X04N)
+Add component (AddParameter): Name = "Supplier Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(Test Point)
+Added Component: Designator=TP?(Test Point)
+Added Pin To Net: NetName=C1_FLASH Pin=P?-3
+Added Net: Name=C1_FLASH
+Added Pin To Net: NetName=C1_RESETPWR Pin=R?-2
+Added Pin To Net: NetName=C1_RESETPWR Pin=TP?-1
+Added Net: Name=C1_RESETPWR
+Added Pin To Net: NetName=C1_RESET Pin=P?-30
+Added Pin To Net: NetName=C1_RESET Pin=R?-1
+Added Net: Name=C1_RESET
+Added Pin To Net: NetName=CS1_P1_D3_N Pin=P?-13
+Added Net: Name=CS1_P1_D3_N
+Added Pin To Net: NetName=CS1_P1_D3_P Pin=P?-14
+Added Net: Name=CS1_P1_D3_P
+Added Pin To Net: NetName=CSI1_I2C_SCL Pin=P?-4
+Added Net: Name=CSI1_I2C_SCL
+Added Pin To Net: NetName=CSI1_I2C_SDA Pin=P?-29
+Added Net: Name=CSI1_I2C_SDA
+Added Pin To Net: NetName=CSI_P1_CK_N Pin=P?-10
+Added Net: Name=CSI_P1_CK_N
+Added Pin To Net: NetName=CSI_P1_CK_P Pin=P?-11
+Added Net: Name=CSI_P1_CK_P
+Added Pin To Net: NetName=CSI_P1_D0_N Pin=P?-7
+Added Net: Name=CSI_P1_D0_N
+Added Pin To Net: NetName=CSI_P1_D0_P Pin=P?-8
+Added Net: Name=CSI_P1_D0_P
+Added Pin To Net: NetName=CSI_P1_D1_N Pin=P?-22
+Added Net: Name=CSI_P1_D1_N
+Added Pin To Net: NetName=CSI_P1_D1_P Pin=P?-21
+Added Net: Name=CSI_P1_D1_P
+Added Pin To Net: NetName=CSI_P1_D2_N Pin=P?-25
+Added Net: Name=CSI_P1_D2_N
+Added Pin To Net: NetName=CSI_P1_D2_P Pin=P?-24
+Added Net: Name=CSI_P1_D2_P
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Pin To Net: NetName=GND Pin=P?-15
+Added Pin To Net: NetName=GND Pin=P?-16
+Added Pin To Net: NetName=GND Pin=P?-18
+Added Pin To Net: NetName=GND Pin=P?-20
+Added Pin To Net: NetName=GND Pin=P?-23
+Added Pin To Net: NetName=GND Pin=P?-26
+Added Pin To Net: NetName=GND Pin=P?-31
+Added Pin To Net: NetName=GND Pin=P?-MP1
+Added Pin To Net: NetName=GND Pin=P?-MP2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MIPI_CSI_MCLK Pin=P?-19
+Added Net: Name=MIPI_CSI_MCLK
+Added Pin To Net: NetName=NVCC_1V8 Pin=C?-2
+Added Pin To Net: NetName=NVCC_1V8 Pin=C?-2
+Added Pin To Net: NetName=NVCC_1V8 Pin=P?-5
+Added Net: Name=NVCC_1V8
+Added Pin To Net: NetName=Trigger Pin=R?-1
+Added Pin To Net: NetName=Trigger Pin=R?-2
+Added Pin To Net: NetName=Trigger Pin=TP?-1
+Added Net: Name=Trigger
+Added Pin To Net: NetName=VCAM_1V2 Pin=C?-2
+Added Pin To Net: NetName=VCAM_1V2 Pin=C?-2
+Added Pin To Net: NetName=VCAM_1V2 Pin=P?-27
+Added Pin To Net: NetName=VCAM_1V2 Pin=P?-28
+Added Net: Name=VCAM_1V2
+Added Pin To Net: NetName=VCAM_2V8 Pin=C?-2
+Added Pin To Net: NetName=VCAM_2V8 Pin=C?-2
+Added Pin To Net: NetName=VCAM_2V8 Pin=P?-1
+Added Pin To Net: NetName=VCAM_2V8 Pin=P?-17
+Added Pin To Net: NetName=VCAM_2V8 Pin=P?-32
+Added Pin To Net: NetName=VCAM_2V8 Pin=R?-2
+Added Net: Name=VCAM_2V8
+Added Class: Name=Sheet2
+Added Differential Pair: Name=CS1_P1_D3
+Added Differential Pair: Name=CSI_P1_CK
+Added Differential Pair: Name=CSI_P1_D0
+Added Differential Pair: Name=CSI_P1_D1
+Added Differential Pair: Name=CSI_P1_D2
+Added Room: Name=Sheet2
